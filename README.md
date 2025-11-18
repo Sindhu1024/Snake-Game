@@ -74,10 +74,10 @@ Check with:
 
 ```bash
 python --version
+```
 
 2. Clone the repository
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+
 
 3. Run the game
 python main.py
@@ -102,6 +102,9 @@ python main.py
 - Tracks and displays the current score  
 - Prints GAME OVER when the game ends  
 
+📜 License
+This project is intended for educational, academic, and portfolio demonstration purposes.
+For commercial or corporate use, please request permission.
 
 🤝 Contributing
 
