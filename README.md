@@ -62,8 +62,8 @@ Example logic:
 
 ```python
 difficulty = screen.textinput("Difficulty", "Choose: easy / medium / hard")
-speed = {"easy": 0.15, "medium": 0.1, "hard": 0.05}.get(difficulty, 0.1)```
-
+speed = {"easy": 0.15, "medium": 0.1, "hard": 0.05}.get(difficulty, 0.1)
+```
 ---
 
 ## 🛠️ Installation & Setup
