@@ -113,7 +113,8 @@ Pull requests and suggestions are welcome!
 💡 Author
 
 Created by C Sindhu Sharma
-If you enjoy the project, consider ⭐ starring the repository on GitHub!
+
+If you enjoyed the project, consider ⭐ starring the repository on GitHub!
 
 
 
